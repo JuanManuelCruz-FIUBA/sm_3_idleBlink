@@ -1,0 +1,14 @@
+GeneratorModel for yakindu::cpp {
+
+	statechart Statechart {
+
+		feature Outlet {
+			targetProject = "sm_3_idleBlink"
+			targetFolder = "src-gen"
+		}
+		
+		feature GeneralFeatures {
+			timerService = true
+		}
+	}
+}
