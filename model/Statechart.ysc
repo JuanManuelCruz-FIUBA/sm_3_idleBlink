@@ -34,7 +34,7 @@
         <layoutConstraint xsi:type="notation:Bounds" xmi:id="_O6PnZAClEea895739UzP5A"/>
       </children>
       <styles xsi:type="notation:StringValueStyle" xmi:id="_w97D8ACsEea895739UzP5A" name="featureToShow" stringValue="specification"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_O6PnZQClEea895739UzP5A" x="10" y="10" width="336" height="596"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_O6PnZQClEea895739UzP5A" x="10" y="10" width="276" height="595"/>
     </children>
     <children xmi:id="_8O0fAE__Ee2DOOvoDMz1og" type="Region" element="_8O0fVE__Ee2DOOvoDMz1og">
       <children xsi:type="notation:DecorationNode" xmi:id="_8O0fAU__Ee2DOOvoDMz1og" type="RegionName">
@@ -147,10 +147,10 @@
         <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8O0fUU__Ee2DOOvoDMz1og"/>
       </children>
       <styles xsi:type="notation:ShapeStyle" xmi:id="_8O0fUk__Ee2DOOvoDMz1og" fontName="Verdana" fillColor="16448250" lineColor="12632256"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8O0fU0__Ee2DOOvoDMz1og" x="2" width="306" height="530"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8O0fU0__Ee2DOOvoDMz1og" x="290" y="10" width="306" height="530"/>
     </children>
     <styles xsi:type="notation:DiagramStyle" xmi:id="_O4nPsQClEea895739UzP5A"/>
-    <styles xsi:type="notation:BooleanValueStyle" xmi:id="_605H0CuJEeiIGeIuy-9ybQ" name="inlineDefinitionSection"/>
+    <styles xsi:type="notation:BooleanValueStyle" xmi:id="_605H0CuJEeiIGeIuy-9ybQ" name="inlineDefinitionSection" booleanValue="true"/>
     <edges xmi:id="_8O2UOU__Ee2DOOvoDMz1og" type="Transition" element="_8O1GLk__Ee2DOOvoDMz1og" source="_8O0fHk__Ee2DOOvoDMz1og" target="_8O0fEk__Ee2DOOvoDMz1og">
       <children xsi:type="notation:DecorationNode" xmi:id="_8O2UOk__Ee2DOOvoDMz1og" type="TransitionExpression">
         <styles xsi:type="notation:ShapeStyle" xmi:id="_8O2UO0__Ee2DOOvoDMz1og"/>
